@@ -6,7 +6,7 @@
             "value": "@subId"
         },
         "name": {
-            "value": "@dfName"
+            "value": "myDataFactory123"
         },
         "version": {
             "value": "V2"
